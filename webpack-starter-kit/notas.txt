@@ -1,0 +1,53 @@
+
+WEBPACK
+npm install webpack webpack - cli - g
+mkdir webpack - starter - kit
+npm init
+BABEL
+npm install webpack webpack - cli - D
+npm install--save - dev @babel/preset - env
+npm install - D babel - loader@latest @babel/core@latest @babel/preset - env@latest
+HTML - LOADER
+npm i - D html - plugin html - loader
+HTML - WEBPACK - PLUGIN
+npm i--save - dev html - webpack - plugin
+SERVER
+npm i - D webpack - dev - server
+CLEAN - WEBPACK - PLUGIN
+npm i clean - webpack - plugin
+npm i clean - webpack - plugin--save - dev
+AUTO
+npm i autoprefixer
+CSS - LOADER
+npm i css - loader
+npm install--save - dev css - loader
+FILE - LOADER
+npm i file - loader
+npm install file - loader--save - dev
+IMAGE - WEBPACK - LOADER
+npm install image - webpack - loader--save - dev
+MINI - CSS
+npm install--save - dev mini - css - extract - plugin
+NODE - SASS
+npm install node - sass
+POSTCSS
+npm install postcss - loader--save - dev
+opcional - yo
+npm install postcss - nesting--save - dev
+npm install postcss - cli--save - dev
+npm i - D postcss - loader
+npm install postcss - preset - env
+npm install postcss - nesting--save - dev
+npm install postcss postcss - import postcss - url postcss - cssnext postcss - browser - reporter postcss - reporter
+RESOLVE - URL
+npm install resolve - url - loader--save - dev
+SASS
+npm install sass - loader node - sass webpack--save - dev
+STYLE - LOADER
+npm install style - loader--save - dev
+BOOTSTRAP
+npm install bootstrap jquery popper.js--save
+EXPORT
+npm install exports - loader--save - dev
+OPTIMISE
+ npm install optimize-css-assets-webpack-plugin --save-dev

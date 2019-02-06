@@ -1,0 +1,40 @@
+html {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    font-size: 16px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+
+    background: {
+        image: url("../img/fondo.jpg");
+
+    }
+}
+
+*,
+*:after,
+*:before {
+    -webkit-box-sizing: inherit;
+    box-sizing: inherit;
+    padding: 0;
+    margin: 0;
+}
+
+$primaryColor: #00f7ff;
+
+body {
+    $primaryColor: rgb(83, 83, 83);
+    background: $primaryColor;
+}
+
+p {
+    color: $primaryColor;
+}
+
+.aplicacion {
+    display: block;
+    width: 50%;
+    font-size: 20px;
+}
