@@ -16,7 +16,7 @@ class Interfaz {
         const select = document.querySelector("#cripto")
         for (const [key, value] of Object.entries(monedas.monedas.Data)) {
           // console.log(key)
-          console.log(value.ImageUrl)
+          //console.log(value.ImageUrl)
           const opcion = document.createElement("option")
           opcion.value = value.Symbol
           opcion.appendChild(document.createTextNode(value.CoinName))
