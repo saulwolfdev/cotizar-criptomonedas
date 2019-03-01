@@ -1,4 +1,4 @@
-h1 {
+/* h1 {
     font-size: 30px;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -17,4 +17,17 @@ h1 {
     display: flex;
     justify-content: space-between;
     align-items: center;
+} */
+
+.img-loader {
+    width: 5%;
+}
+
+.spinner {
+    margin: 100px auto 0;
+    width: 70px;
+    text-align: center;
+}
+.contenido-spinner{
+    display: none;
 }

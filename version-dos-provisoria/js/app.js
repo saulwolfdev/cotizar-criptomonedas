@@ -18,7 +18,7 @@ formulario.addEventListener("submit", (e) => {
     } else {
         cotizadorApi.obtenerValores(monedaSeleccionada, criptoSeleccionada)
             .then(data => {
-                console.log(data)
+                ui.mostarResultado(data.resultado.RAW,monedaSeleccionada,criptoSeleccionada)
             })
     }
 
